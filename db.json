@@ -73,7 +73,10 @@
             "active_invoices_count": 0
         }
     ],
+    "info": "",
+    "error": "",
+    "success": true,
     "profile": {
     "name": "typicode"
-  }
+    }
 }
