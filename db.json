@@ -77,5 +77,8 @@
     ],
     "info": "",
     "error": "",
-    "success": true
+    "success": true,
+    "profile": {
+    "name": "typicode"
+  }
 }
