@@ -36,7 +36,48 @@
             "invoice_import_ready": true,
             "active_invoices_count": 1
         },
-    
+        {
+            "profile_id": 105900,
+            "accounts_data": [
+                {
+                    "rest": 0,
+                    "acc_id": 984368,
+                    "type_id": 9,
+                    "currency_id": 1,
+                    "currency_iso3": "UAH"
+                }
+            ],
+            "is_dataimport": false,
+            "supplier_name": "8888888888",
+            "is_dataimport_html": null,
+            "supplier_profile_id": "105900-984368",
+            "invoice_import_ready": true,
+            "active_invoices_count": 1
+        },
+        {
+            "profile_id": 704,
+            "accounts_data": [
+                {
+                    "rest": 96323.1185,
+                    "acc_id": 1132,
+                    "type_id": 9,
+                    "currency_id": 1,
+                    "currency_iso3": "UAH"
+                }
+            ],
+            "is_dataimport": false,
+            "supplier_name": "AD",
+            "is_dataimport_html": null,
+            "supplier_profile_id": "704-1132",
+            "invoice_import_ready": true,
+            "active_invoices_count": 0
+        },
+
+
+    ],
+    "info": "",
+    "error": "",
+    "success": true,
     "profile": {
     "name": "typicode"
   }
